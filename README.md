@@ -1,2 +1,2 @@
 # RGBullsEye
-First app on SwiftUI
+First app on SwiftUI for practice
